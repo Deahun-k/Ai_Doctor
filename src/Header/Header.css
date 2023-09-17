@@ -1,0 +1,18 @@
+.Head {
+    text-align: center;
+    height: 7vh;
+}
+
+h1 {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+  
+.Navbar-collapse {
+    /* Navbar.Toggle 스타일 유지 */
+    position: absolute;
+    top: 100%; /* Navbar 아래에 위치하도록 설정 */
+    right: 0; /* Navbar 오른쪽에 위치하도록 설정 */
+    
+}
